@@ -1,5 +1,6 @@
 import tensorflow as tf
 from tensorflow.keras.layers import *
+import matplotlib.pyplot as plt
 
 input_shape = (150, 150, 3)
 batch_size = 10
